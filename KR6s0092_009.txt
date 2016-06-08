@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:09:07.109116
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:39
 #+TITLE: 大周刊定眾經目錄
 #+PROPERTY: CBETA_ID T55n2153
 #+PROPERTY: ID KR6s0092
@@ -17,7 +17,7 @@
 ¶
 大唐天后勅佛授記寺沙門明佺等撰¶
 
-卷之二
+** 卷之二
 :PROPERTIES:
 :head: 小乘重譯經目卷之二(二百七十九部三百八十一卷)
 :END:
