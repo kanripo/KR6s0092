@@ -1,29 +1,24 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:09:07.282477
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:39
 #+TITLE: 大周刊定眾經目錄
 #+PROPERTY: CBETA_ID T55n2153
 #+PROPERTY: ID KR6s0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 55, No. 2153
 #+PROPERTY: VOL 55
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0092_T_000-0372c>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6s0092_T_015-0472a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 15
 ¶
 ¶
 ¶
-
- 大周刊定眾經目錄卷第十五¶
+大周刊定眾經目錄卷第十五¶
 ¶
-大唐天后勅佛授記寺¶
+大唐天后勅＝代【宋】【元】勅勅佛授記寺¶
 沙門明佺等撰¶
 
-偽經目錄
-:PROPERTIES:
-:head: 偽經目錄(二百二十八部四百一十九卷)
-:END:
-¶
+* 偽經目錄(二百二十八部四百一十九卷)¶
 
   
   * 寶頂經一卷(南齊永元元年出時年九歲)¶
